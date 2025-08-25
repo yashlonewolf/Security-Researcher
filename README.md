@@ -21,7 +21,7 @@ Google Fonts & Icons8
 
 Live Demo
 
-🔗 View Website
+🔗 https://yashlonewolf.github.io/Security-Researcher/
 
 Contact
 
